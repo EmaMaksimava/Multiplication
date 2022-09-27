@@ -80,7 +80,7 @@
   box-shadow: 2px 2px 4px rgba(0,0,0, .3);
 }
 
-.btn-form .active {
+.active {
   background-color: #3fa061;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.493);
 }
